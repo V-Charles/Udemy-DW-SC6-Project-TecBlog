@@ -38,6 +38,12 @@ body{
     float: right;
 }
 
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
 #area-rodape{
     clear: both;
     text-align: center;
