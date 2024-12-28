@@ -11,6 +11,41 @@ body{
 }
 
 /*
+**** Layout ****
+*/
+#area-cabecalho{
+    background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+#area-logo, #area-menu{
+    padding: 10px;
+}
+
+#area-principal{
+    width: 920px;
+    margin: 0 auto;
+}
+
+#area-postagens{
+    width: 660px;
+    float: left;
+}
+
+#area-lateral{
+    width: 240px;
+    float: right;
+}
+
+#area-rodape{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #CCC;
+}
+
+/*
 **** Formatação do menu ****
 */
 a{
@@ -25,19 +60,6 @@ a:link, a:visited{
 a:hover{
     color: #f7b600;
     background: #fff;
-}
-
-/*
-**** Layout ****
-*/
-#area-cabecalho{
-    background-color: #f7b600;
-    padding: 15px;
-    text-align: center;
-}
-
-#area-logo, #area-menu{
-    padding: 10px;
 }
 
 /*
