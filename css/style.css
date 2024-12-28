@@ -11,6 +11,23 @@ body{
 }
 
 /*
+**** Formatação do menu ****
+*/
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #fff;
+    padding: 8px 12px;
+}
+
+a:hover{
+    color: #f7b600;
+    background: #fff;
+}
+
+/*
 **** Layout ****
 */
 #area-cabecalho{
